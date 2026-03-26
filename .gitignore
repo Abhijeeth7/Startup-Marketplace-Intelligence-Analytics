@@ -1,0 +1,20 @@
+# Python Environment & Cache
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data Files (Crucial for Marketplace Analytics)
+*.db
+*.sqlite
+*.csv
+*.xlsx
+*.pbix
+
+# Logs and Environment
+*.log
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
