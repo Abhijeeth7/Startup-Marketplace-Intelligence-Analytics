@@ -1,20 +1,6 @@
-# Python Environment & Cache
+pm/
 venv/
 __pycache__/
-*.py[cod]
-*$py.class
-
-# Data Files (Crucial for Marketplace Analytics)
+*.pyc
 *.db
-*.sqlite
-*.csv
-*.xlsx
-*.pbix
-
-# Logs and Environment
-*.log
 .env
-
-# OS-specific files
-.DS_Store
-Thumbs.db
